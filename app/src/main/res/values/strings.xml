@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseExpirement</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="default_client_id">629800407740-i3mrug4ck25n16meansjk9gv24iecb6d.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1048075485970133</string>
+    <string name="fb_login_protocol_scheme">fb1048075485970133</string>
+</resources>
